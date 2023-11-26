@@ -1,3 +1,6 @@
+See below for the Credits
+
+
 # Devops Project: video-converter
 Converting mp4 videos to mp3 in a microservices architecture.
 
@@ -266,12 +269,14 @@ Run the application through the following API calls:
   ``` 
 
 ## Destroying the Infrastructure
-
-
-
-# Thanks to Nasiullha Chaudhari Sir (N4si) for providing the guidance, and the resources all credit of this Repo goes to the owner N4Si (Nasiullha Chaudhari)
 To clean up the infrastructure, follow these steps:
 
 1. **Delete the Node Group:** Delete the node group associated with your EKS cluster.
 
 2. **Delete the EKS Cluster:** Once the nodes are deleted, you can proceed to delete the EKS cluster itself.
+
+
+
+
+
+# Thanks to Nasiullha Chaudhari Sir (N4si) for providing the guidance, and the resources all credit of this Repo goes to the owner N4Si (Nasiullha Chaudhari)
