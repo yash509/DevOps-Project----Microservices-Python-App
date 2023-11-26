@@ -1,3 +1,5 @@
+# Thanks to Nasiullha Chaudhari Sir (N4si) for providing the guidance, and the resources all credit of this Repo goes to the owner N4Si (Nasiullha Chaudhari)
+
 # Devops Project: video-converter
 Converting mp4 videos to mp3 in a microservices architecture.
 
