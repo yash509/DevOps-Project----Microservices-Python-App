@@ -1,4 +1,4 @@
-See below for the Credits
+See below of this section for the the Credits.
 
 
 # Devops Project: video-converter
